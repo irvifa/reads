@@ -1,5 +1,4 @@
 ---
+slug: algorithms
 layout: part
-slug: theme
 ---
-
