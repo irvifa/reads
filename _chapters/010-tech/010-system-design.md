@@ -109,6 +109,80 @@ slug: system-design
   - Infrastructure challenges
   - Software development insights
 
+### GPU Engineering
+
+- **[NVIDIA Developer Blog](https://developer.nvidia.com/blog)**
+  - GPU computing insights
+  - CUDA programming techniques
+  - Deep learning, AI, and data science using GPUs
+
+- **[AMD Developer Blog](https://community.amd.com/t5/developer-blogs/bg-p/devblogs)**
+  - Graphics and compute solutions
+  - Performance tuning for AMD GPUs
+  - Latest updates on hardware and software tools
+
+- **[Intel Graphics Developer Blog](https://www.intel.com/content/www/us/en/developer/tools/graphics/overview.html)**
+  - Insights into Intel GPU architecture
+  - Optimizing graphics and compute workloads
+  - Tools and SDKs for performance improvements
+
+- **[GPULib Blog](https://gpulib.com/blog)**
+  - Deep dives into GPU programming
+  - Optimization tips for GPU-accelerated applications
+  - Real-world case studies and examples
+
+- **[CUDA Zone by NVIDIA](https://developer.nvidia.com/cuda-zone)**
+  - Comprehensive tutorials on CUDA programming
+  - GPU-accelerated application design
+  - Code samples, whitepapers, and tools
+
+- **[ARM Developer Blog](https://developer.arm.com/blogs)**
+  - Insights into ARM architecture
+  - Development guides for ARM processors
+  - Performance optimization and best practices for ARM-based systems
+
+- **[Parallel Forall (NVIDIA's Parallel Programming Blog)](https://developer.nvidia.com/blog/category/parallelforall)**
+  - Tutorials and guides on parallel programming
+  - Best practices for GPU computing
+  - Discussions on CUDA, OpenACC, and deep learning frameworks
+
+- **[Reddit - r/gpgpu](https://www.reddit.com/r/gpgpu/)**
+  - Community-driven discussions on GPU computing
+  - Real-world use cases and troubleshooting tips
+  - News on GPU hardware and software advancements
+
+### AI & Machine Learning Blogs
+
+- **[Hugging Face Blog](https://huggingface.co/blog)**
+  - Tutorials on natural language processing (NLP)
+  - Guides for using popular models like Transformers and Diffusers
+  - Open-source machine learning toolkits and updates
+
+- **[OpenAI Blog](https://openai.com/blog)**
+  - Research insights in AI and machine learning
+  - Articles on GPT models, deep learning, and AI ethics
+  - Latest developments in AI research and applications
+
+- **[Anthropic Research Blog](https://www.anthropic.com)**
+  - Focus on AI safety and research into building reliable AI systems
+  - Discussions on AI alignment, interpretability, and large language models
+  - Updates on current projects and research papers
+
+- **[DeepMind Blog](https://www.deepmind.com/blog)**
+  - Insights into cutting-edge AI research
+  - Applications of AI in gaming, healthcare, and scientific discovery
+  - Discussions on reinforcement learning, neural networks, and AI ethics
+
+- **[Google AI Blog](https://ai.googleblog.com)**
+  - Research articles on AI, machine learning, and deep learning
+  - Case studies and practical applications of AI
+  - Open-source projects, tools, and libraries
+
+- **[Meta AI Blog](https://ai.facebook.com/blog)**
+  - Research insights in AI and machine learning at Meta (Facebook)
+  - Open-source tools and model releases
+  - Discussions on large-scale AI systems and their applications
+
 ## Architecture Resources
 
 - **[The Twelve-Factor App](https://12factor.net)**
