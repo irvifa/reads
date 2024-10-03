@@ -52,12 +52,8 @@ sidebar_nav_bottom:
 bottom_nav:
 - label: Home
   url: /index.html
-- label: Book
-  url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
-- label: Privacy
-  url: /privacy.html
+  url: https://github.com/irvifa
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
