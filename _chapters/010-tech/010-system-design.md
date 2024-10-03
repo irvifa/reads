@@ -99,6 +99,26 @@ slug: system-design
   - ML applications
   - Frontend innovations
 
+- **[Jane Street Tech Blog](https://blog.janestreet.com)**
+  - Functional programming
+  - Financial systems engineering
+  - Software design principles
+
+- **[Palantir Engineering Blog](https://medium.com/palantir)** 
+  - Data processing
+  - Infrastructure challenges
+  - Software development insights
+
+## Architecture Resources
+
+- **[The Twelve-Factor App](https://12factor.net)**
+  - Best practices for building scalable and maintainable software-as-a-service (SaaS) apps
+  - Covers configuration, dependencies, and deployment
+
+- **[Martin Fowler's Architecture](https://www.martinfowler.com/architecture/)**
+  - In-depth articles on software architecture patterns
+  - Includes microservices, event-driven architecture, and refactoring techniques
+
 ## Newsletters
 
 - **[The Pragmatic Engineer](https://blog.pragmaticengineer.com)**
